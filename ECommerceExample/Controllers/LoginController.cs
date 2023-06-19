@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ECommerceExample.Controllers
 {
-    public class LoginController : Controller
+    public class LoginController : Controller 
     {
 
         public IActionResult Index()
